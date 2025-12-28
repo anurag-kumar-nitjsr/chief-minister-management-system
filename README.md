@@ -70,4 +70,4 @@ Resume and interview showcase
 👨‍💻 Author
 
 Anurag Kumar
-Senior Executive | Java & Spring Boot Developer
+Software Engineer | Java & Spring Boot Developer
